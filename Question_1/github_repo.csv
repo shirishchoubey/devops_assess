@@ -1,0 +1,3 @@
+vault:https://github.com/hashicorp/vault:a5002ea5041df3d1dca9032ef4c128782bcd7090:Austin Gebauer <34121980+austingebauer@users.noreply.github.com>
+compose:https://github.com/docker/compose:d8c996a65ed76658eabcdae4c1b347347d78d8f4:dependabot-preview[bot] <27856297+dependabot-preview[bot]@users.noreply.github.com>
+kubernetes:https://github.com/kubernetes/kubernetes:4a91ecb9762adc089680c45c93d0342bf8a350e1:5b3dba02d0 c39cf28ed35
